@@ -1,0 +1,4 @@
+Rudi resolusi
+- Menguasai PHP Laravel
+- Menguasai NodeJS Express JS
+- Menguasai MongoDB
