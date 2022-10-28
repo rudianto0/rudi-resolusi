@@ -3,4 +3,4 @@ Rudi resolusi
 - Menguasai NodeJS Express JS
 - Menguasai MongoDB
 - Menguasai PostgreSQL
-- Menguasai TypeScript
+- Menguasai GoLang
