@@ -3,5 +3,6 @@ Rencana Konten RUdi
 - MongoDB
  + Schema
  + Konsep
+ - fundamental / struktur data
 - API
 - Git
