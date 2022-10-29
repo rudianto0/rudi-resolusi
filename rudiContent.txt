@@ -1,10 +1,9 @@
 Rencana Konten RUdi
 
 - PHP
-+ Laravel
-- JavaScript
-+ Vue
-+ React
+ + Laravel
+ NodeJS
+ +ExpressJS
 - MongoDB
  + Schema
  + Konsep
