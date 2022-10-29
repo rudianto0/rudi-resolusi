@@ -1,0 +1,7 @@
+Rencana Konten RUdi
+
+- MongoDB
+ + Schema
+ + Konsep
+- API
+- Git
